@@ -13,7 +13,7 @@ YoutubeDescription is a plugin for Vencord that adds descriptions to YouTube vid
 1. Ensure you have Vencord installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/KeiraOMG0/YoutubeDescription.git
+   git clone https://github.com/KeiraOMG0/youtubeDescription.git
    ```
 3. Place the `YoutubeDescription` plugin into your Vencord `userPlugins` folder.
 4. Enable the plugin through the Vencord settings.
